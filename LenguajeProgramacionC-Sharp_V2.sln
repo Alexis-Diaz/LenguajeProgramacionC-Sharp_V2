@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-TopLevelStatements", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-ImpresionPorConsola", "03-ImpresionPorConsola\03-ImpresionPorConsola.csproj", "{712A69E1-AA12-4EE0-A935-52676345F0E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Comentarios", "04-Comentarios\04-Comentarios.csproj", "{20DC33F9-6027-46E9-A963-30FEBF6D5E7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{712A69E1-AA12-4EE0-A935-52676345F0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{712A69E1-AA12-4EE0-A935-52676345F0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{712A69E1-AA12-4EE0-A935-52676345F0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DC33F9-6027-46E9-A963-30FEBF6D5E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DC33F9-6027-46E9-A963-30FEBF6D5E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DC33F9-6027-46E9-A963-30FEBF6D5E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DC33F9-6027-46E9-A963-30FEBF6D5E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
