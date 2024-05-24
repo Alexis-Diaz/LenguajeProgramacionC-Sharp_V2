@@ -19,7 +19,7 @@ namespace TopLevelStatements
     }
 }
 
-//Explicación del ejemplo anterior
+//EXPLICACION DEL EJEMPLO
 
 //Linea 11: Un namespace o espacion de nombre son bloques que sirven para organizar el código. Pueden ser
 //contenedores de clases y otros namespace.
@@ -45,6 +45,8 @@ namespace TopLevelStatements
 
 //Linea 18, 19 , 20: Esta llaves marcan el cierre del metodo, clase y espacio de nombres respectivamente.
 
+
+//CONCLUSIONES
 //Como indicamos anteriormente, apartir de NET 5 ya no es necesario escribir todas esa lineas de codigo
 //gracias a las instrucciones de nivel superior que nos permiten escribir codigo directamente en el archivo
 //Program.cs y facilita escribir programas sencillos para utilidades pequeñas a la vez que facilitan a los
