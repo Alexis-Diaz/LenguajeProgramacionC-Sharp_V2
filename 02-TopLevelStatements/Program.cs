@@ -48,7 +48,9 @@ namespace TopLevelStatements
 //Como indicamos anteriormente, apartir de NET 5 ya no es necesario escribir todas esa lineas de codigo
 //gracias a las instrucciones de nivel superior que nos permiten escribir codigo directamente en el archivo
 //Program.cs y facilita escribir programas sencillos para utilidades pequeñas a la vez que facilitan a los
-//nuevos programadores de C# empezar a aprender y escribir código.
+//nuevos programadores de C# empezar a aprender y escribir código. Claro, al crear un nuevo proyecto de 
+//consola hay una casilla que permite inhabilitar este compartamiento si lo que prefieres es construir
+//programas de consola con la antigua forma de hacerlo.
 
-//Debes entender que existen ciertas reglas que indican lo que podemos y no hacer con las
+//Tambies debes tomar en cuenta que existen ciertas reglas que indican lo que podemos y no hacer con las
 //instrucciones de nivel superior. Durante la marcha iremos aprendiente estas reglas.
