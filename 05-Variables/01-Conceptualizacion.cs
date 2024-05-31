@@ -25,7 +25,7 @@ namespace _05_Variables
         //1-Variables estaticas
         //2-Variables de instancia
         //3-Elementos de matriz
-        //4-Parametros de valor
+        //4-Parametros por valor
         //5-Parametros de entrada
         //6-Parametros de referencia
         //7-Parametros de salida
@@ -37,10 +37,10 @@ namespace _05_Variables
             public static int variableEstatica;
             int variableDeInstancia;
 
-            void Metodo(int[] elementoDeMatriz, int parametroDeValor, in int parametroDeEntrada, ref int parametroDeReferencia, out int parametroDeSalida)
+            void Metodo(int[] elementoDeMatriz, int parametroPorValor, in int parametroDeEntrada, ref int parametroDeReferencia, out int parametroDeSalida)
             {
                 int variableLocal = 1;
-                parametroDeSalida = parametroDeValor + parametroDeReferencia++ + parametroDeEntrada;
+                parametroDeSalida = parametroPorValor + parametroDeReferencia++ + parametroDeEntrada;
             }
         }
 

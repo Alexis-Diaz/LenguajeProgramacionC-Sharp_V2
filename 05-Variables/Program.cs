@@ -16,3 +16,10 @@ Console.WriteLine("========Elementos de matriz=======");
 ElementosDeMatriz em = new();
 string[] elementosDeMatriz = { "elem1", "elem2", "elem3", "elem4" };
 em.ImprimirMatriz(elementosDeMatriz);
+Console.WriteLine();
+
+//Impresion de parametro por valor
+Console.WriteLine("========Parametro por valor=======");
+ParametroDeValor pv = new();
+pv.ImprimirParametroDeValor("Programacion");
+Console.WriteLine();
