@@ -23,3 +23,28 @@ Console.WriteLine("========Parametro por valor=======");
 ParametroDeValor pv = new();
 pv.ImprimirParametroDeValor("Programacion");
 Console.WriteLine();
+
+//Impresion de parametro por referencia
+Console.WriteLine("========Parametro por referencia=======");
+ParametroPorReferencia pr = new();
+pr.PruebaConParametrosPorReferencia();
+Console.WriteLine();
+
+//Impresion de parametro de salida
+Console.WriteLine("========Parametro de salida=======");
+ParametroDeSalida ps = new();
+ps.PruebaConParametrosDeSalida();
+Console.WriteLine();
+
+//Impresion de parametro de entrada
+Console.WriteLine("========Parametro de entrada=======");
+ParametroDeEntrada pe = new();
+pe.PruebaConParametrosDeEntrada();
+Console.WriteLine();
+Console.WriteLine();
+
+//Impresion de variables locales
+Console.WriteLine("========Variables locales=======");
+VariablesLocales vl = new();
+vl.MetodoA();
+Console.WriteLine();
