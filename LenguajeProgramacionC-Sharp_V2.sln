@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-VariablesI", "05-Variabl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-VariablesII", "06-VariablesII\06-VariablesII.csproj", "{F7054C35-D2DE-4DC9-A625-40E503C0447B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-VariablesIII", "VariablesIII\07-VariablesIII.csproj", "{1925923B-01C2-4BD3-8AEA-C9CF2EEA6580}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-VariablesIII", "VariablesIII\07-VariablesIII.csproj", "{1925923B-01C2-4BD3-8AEA-C9CF2EEA6580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-ConversionesDeDatos", "08-ConversionesDeDatos\08-ConversionesDeDatos.csproj", "{1613ECC4-57EC-4F77-A1F1-6EE9503E50FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-ConversionesDeDatos", "08-ConversionesDeDatos\08-ConversionesDeDatos.csproj", "{1613ECC4-57EC-4F77-A1F1-6EE9503E50FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-Operadores", "09-Operadores\09-Operadores.csproj", "{B86679C0-9EA9-4C43-8A46-172BBED21E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-OperadoresDeAsignacion", "10-OperadoresDeAsignacion\10-OperadoresDeAsignacion.csproj", "{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{1613ECC4-57EC-4F77-A1F1-6EE9503E50FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1613ECC4-57EC-4F77-A1F1-6EE9503E50FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1613ECC4-57EC-4F77-A1F1-6EE9503E50FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86679C0-9EA9-4C43-8A46-172BBED21E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86679C0-9EA9-4C43-8A46-172BBED21E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86679C0-9EA9-4C43-8A46-172BBED21E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86679C0-9EA9-4C43-8A46-172BBED21E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
