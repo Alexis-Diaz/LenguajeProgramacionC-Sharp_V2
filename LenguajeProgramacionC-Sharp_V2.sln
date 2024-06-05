@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-VariablesIII", "Variable
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-ConversionesDeDatos", "08-ConversionesDeDatos\08-ConversionesDeDatos.csproj", "{1613ECC4-57EC-4F77-A1F1-6EE9503E50FA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-Operadores", "09-Operadores\09-Operadores.csproj", "{B86679C0-9EA9-4C43-8A46-172BBED21E94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-OperadoresAritmeticos", "09-Operadores\09-OperadoresAritmeticos.csproj", "{B86679C0-9EA9-4C43-8A46-172BBED21E94}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-OperadoresDeAsignacion", "10-OperadoresDeAsignacion\10-OperadoresDeAsignacion.csproj", "{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-OperadoresDeComparacion", "11-OperadoresDeComparacion\11-OperadoresDeComparacion.csproj", "{1F36229A-6036-4A04-B30F-B10958FA10B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E94EC284-C58F-4CDE-983D-8EAFCCD2F2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F36229A-6036-4A04-B30F-B10958FA10B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F36229A-6036-4A04-B30F-B10958FA10B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F36229A-6036-4A04-B30F-B10958FA10B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F36229A-6036-4A04-B30F-B10958FA10B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
