@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-OperadoresLogicos", "12-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Math", "13-Math\13-Math.csproj", "{F01042BE-907D-48FB-9FF4-7738688B6E58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-String", "14-String\14-String.csproj", "{AA016645-1DAF-4096-BE4B-31909613A4DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F01042BE-907D-48FB-9FF4-7738688B6E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F01042BE-907D-48FB-9FF4-7738688B6E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F01042BE-907D-48FB-9FF4-7738688B6E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA016645-1DAF-4096-BE4B-31909613A4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA016645-1DAF-4096-BE4B-31909613A4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA016645-1DAF-4096-BE4B-31909613A4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA016645-1DAF-4096-BE4B-31909613A4DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
